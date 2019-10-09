@@ -43,15 +43,6 @@ Traveller.prototype.calculateTotalDistanceTravelled = function () {
 
 
 Traveller.prototype.getUniqueModesOfTransport = function () {
-  //   const result = this.journeys.map((journey) => {
-  //   });
-  //   const unique = [];
-  //   result.forEach ((journey)=>{
-  //     if journey !==
-  //   })
-  //   return result;
-  // };
-
 
   let array = [];
   let journeys = this.journeys
